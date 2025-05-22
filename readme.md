@@ -47,7 +47,8 @@ python predict_lang.py --dir path/to/directory/
 Show top-k predictions:
 ```bash
 python predict_lang.py --file path/to/file.txt --top-k 3
-```                  ## Implementation Details
+```
+## Implementation Details
 
 ### Model Architecture
 
