@@ -125,15 +125,4 @@ The implementation is optimized for:
 ### Documentation
 - `README.md` — Main documentation and usage instructions.
 
-# Training the Model
-python predict_lang.py --train --train-dir FileTypeData
-
-# Predicting Language from a Single File
-python predict_lang.py --file path/to/file.txt
-
-# Predicting Languages for Multiple Files in a Directory
-python predict_lang.py --dir path/to/directory/
-
-# Showing Top-k Predictions
-python predict_lang.py --file path/to/file.txt --top-k 3
 
